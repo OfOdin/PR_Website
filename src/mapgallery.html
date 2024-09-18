@@ -1,0 +1,174 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Map Gallery</title>
+    <link href="./style.css" rel="stylesheet">
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Staatliches&display=swap" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@^3.0/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .roboto-mono {
+            font-family: "Roboto Mono", monospace;
+            font-weight: 400;
+            font-style: normal;
+        }
+
+        .staatliches-regular {
+            font-family: "Staatliches", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+        }
+        .active {
+            @apply bg-black text-white;
+        }
+    </style>
+</head>
+
+<body class="bg-prGray">
+
+    <nav class="container min-w-[768px] flex mt-4 mx-auto px-4 h-16">
+
+        <!-- Nav Full -->
+        <div class=" w-[82px] flex flex-shrink-0 rounded-l-lg justify-center bg-prBlack">
+            <img src="./img/pr-logo.png" alt="" class="w-[68px] object-cover">
+        </div>
+
+        <!-- Nav Transparent -->
+        <div class="container flex rounded-r-lg items-center justify-between bg-prBlack bg-opacity-50 backdrop-blur-[15px]">
+
+            <div class="ml-2">
+                <h2 class="font-staatliches leading-none text-2xl text-white">Project Reality</h2>
+                <h3 class="font-staatliches leading-none text-l text-prWhite">Map Gallery</h3>
+            </div>
+
+            <div class="flex space-x-4">
+                <a href="#" class="font-roboto-mono font-bold uppercase text-sm hover:text-white text-prWhite">Home</a>
+                <a href="#" class="font-roboto-mono font-bold uppercase text-sm hover:text-white text-prWhite">Media</a>
+                <a href="#" class="font-roboto-mono font-bold uppercase text-sm hover:text-white text-prWhite">Forums</a>
+                <a href="#" class="font-roboto-mono font-bold uppercase text-sm hover:text-white text-prWhite">Map Gallery</a>
+                <a href="#" class="font-roboto-mono font-bold uppercase text-sm hover:text-white text-prWhite">Stats</a>
+                <a href="#" class="font-roboto-mono font-bold uppercase text-sm hover:text`-white text-prWhite">PRSpy</a>
+            </div>
+
+            <a href="" class="p-2 px-5 mr-3 text-white font-roboto-mono text-sm font-bold uppercase bg-prBlack rounded-lg hover:bg-slate-800">Login</a>
+        
+        </div>
+    </nav>
+
+
+    <section id="filters" class="relative container flex min-w-[768px] mx-auto mt-4 px-4 justify-center">
+        <div class="container flex h-52 rounded-2xl bg-prWhite">
+
+            <div class="container flex flex-col mt-5 px-5 ">
+
+                <!-- Search -->
+                <label for="searchFeild" class="font-roboto-mono font-semibold text-xs text-prDarkGray"> Search </label>
+
+                <div class="relative">
+                    <input id="search-box" data-search type="search" placeholder="Search for Map" class="h-7 px-3 mt-1 w-full rounded-lg font-roboto-mono font-light italic text-sm text-[4d4d4d] bg-prGray">
+                </div>
+
+                <div class="container relative flex mt-4">
+                    
+                    <!-- Game Mode -->
+                    <div class="container flex flex-col items-start">
+                        <h3 class="font-roboto-mono font-semibold text-xs text-prDarkGray">Game Mode</h3>
+
+                        <div class="flex flex-row whitespace-nowrap mr-4">
+                            <div class="flex flex-col flex-auto items-start mr-2">                                
+                                <button class="game-mode-button pr-2 font-staatliches leading-[1.2] text-xl text-black">Advance And Secure</button>
+                                <button class="game-mode-button pr-2 font-staatliches leading-[1.2] text-xl text-black">Insurgency</button>
+                                <button class="game-mode-button pr-2 font-staatliches leading-[1.2] text-xl text-black">Skirmish</button>
+                                <button class="game-mode-button pr-2 font-staatliches leading-[1.2] text-xl text-black">Command And Control</button>
+                            </div>
+
+                            <div class="flex flex-col items-start">
+                                <button class="game-mode-button pr-2 font-staatliches leading-[1.2] text-xl text-black">Vehicle Warfare</button>
+                                <button class="game-mode-button pr-2 font-staatliches leading-[1.2] text-xl text-black">Gun Game</button>
+                                <button class="game-mode-button pr-2 font-staatliches leading-[1.2] text-xl text-black">Cooperative</button>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Vertical Line -->
+                    <div class="flex items-center">
+                        <div class="w-0.5 h-16 bg-prDarkGray opacity-20"></div>
+                    </div>
+                
+
+                    <!-- Size -->
+                    <div class="container flex flex-col items-center">
+                        <div class="flex flex-col items-start pl-2">
+                            <h3 class="font-roboto-mono font-semibold text-xs text-prDarkGray">Size</h3>
+                            <div class="flex flex-col justify-items-start whitespace-nowrap">
+                                <button class="size-button pr-2 font-staatliches leading-[1.2] text-xl text-black">1 Kilometer</button>
+                                <button class="size-button pr-2 font-staatliches leading-[1.2] text-xl text-black">2 Kilometer</button>
+                                <button class="size-button pr-2 font-staatliches leading-[1.2] text-xl text-black">4 Kilometer</button>
+                                <button class="size-button pr-2 font-staatliches leading-[1.2] text-xl text-black">8 Kilometer</button>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Vertical Line -->
+                    <div class="flex items-center">
+                        <div class="w-0.5 h-16 bg-prDarkGray opacity-20"></div>
+                    </div>
+                    
+                    
+                    <!-- Layer -->
+                    <div class="container flex flex-col items-center">
+                        <div class="flex flex-col items-start pl-2">
+                            <h3 class="font-roboto-mono font-semibold text-xs text-prDarkGray">Layer</h3>
+                            <div class="flex flex-col items-start">
+                                <button class="layer-button pr-2 font-staatliches leading-[1.2] text-xl text-black">Infantry</button>
+                                <button class="layer-button pr-2 font-staatliches leading-[1.2] text-xl text-black">Standard</button>
+                                <button class="layer-button pr-2 font-staatliches leading-[1.2] text-xl text-black">Alternative</button>
+                                <button class="layer-button pr-2 font-staatliches leading-[1.2] text-xl text-black">Large</button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Vertical Line -->
+                    <div class="flex items-center">
+                        <div class="w-0.5 h-16 bg-prDarkGray opacity-20"></div>
+                    </div>
+                                    
+                    <!-- Era -->
+                    <div class="container flex flex-col items-center">
+                        <div class="flex flex-col items-start pl-2">
+                            <h3 class="font-roboto-mono font-semibold text-xs text-prDarkGray">Era</h3>
+                            <div class="flex flex-col items-start whitespace-nowrap">
+                                <button class="era-button pr-2 font-staatliches leading-[1.2] text-xl text-black">Modern</button>
+                                <button class="era-button pr-2 font-staatliches leading-[1.2] text-xl text-black">Vietnam</button>
+                                <button class="era-button pr-2 font-staatliches leading-[1.2] text-xl text-black">World War II</button>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="container flex mt-4 mx-auto px-4 justify-center ">
+    <div id="map-cards"bg- data-user-cards-container class="container mx-auto grid grid-cols-1 gap-y-3 md:grid-cols-2 md:gap-3 xl:grid-cols-3 2xl:grid-cols-4">
+        <!-- Gallery Card -->
+    </div>
+
+</section>
+
+
+<script src="script.js"></script>
+</body>
+
+</html>

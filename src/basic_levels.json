@@ -1,0 +1,3872 @@
+[
+    {
+        "Name": "Adak - BETA",
+        "Key": "adak",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/adak.jpeg"
+    },
+    {
+        "Name": "Al Basrah",
+        "Key": "albasrah_2",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_gungame",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/albasrah_2.jpeg"
+    },
+    {
+        "Name": "Asad Khal",
+        "Key": "asad_khal",
+        "Size": 1,
+        "Layouts": [
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_gungame",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/asad_khal.jpeg"
+    },
+    {
+        "Name": "Ascheberg",
+        "Key": "ascheberg",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/ascheberg.jpeg"
+    },
+    {
+        "Name": "Assault on Grozny",
+        "Key": "assault_on_grozny",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/assault_on_grozny.jpeg"
+    },
+    {
+        "Name": "Assault on Mestia",
+        "Key": "assault_on_mestia",
+        "Size": 1,
+        "Layouts": [
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/assault_on_mestia.jpeg"
+    },
+    {
+        "Name": "Bamyan",
+        "Key": "bamyan",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/bamyan.jpeg"
+    },
+    {
+        "Name": "Battle of Debrecen",
+        "Key": "battle_of_debrecen",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "ww2"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/battle_of_debrecen.jpeg"
+    },
+    {
+        "Name": "Battle of Ia Drang",
+        "Key": "battle_of_ia_drang",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "vietnam"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/battle_of_ia_drang.jpeg"
+    },
+    {
+        "Name": "Battle of Kerch",
+        "Key": "battle_of_kerch",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "ww2"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/battle_of_kerch.jpeg"
+    },
+    {
+        "Name": "Beirut",
+        "Key": "beirut",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/beirut.jpeg"
+    },
+    {
+        "Name": "Belyaevo",
+        "Key": "belyaevo",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "ww2"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/belyaevo.jpeg"
+    },
+    {
+        "Name": "Black Gold",
+        "Key": "black_gold",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_gungame",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_gungame",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/black_gold.jpeg"
+    },
+    {
+        "Name": "Brecourt Assault",
+        "Key": "brecourt_assault",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 64,
+                "Era": "ww2"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/brecourt_assault.jpeg"
+    },
+    {
+        "Name": "Burning Sands",
+        "Key": "burning_sands",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/burning_sands.jpeg"
+    },
+    {
+        "Name": "Carentan",
+        "Key": "carentan",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 64,
+                "Era": "ww2"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/carentan.jpeg"
+    },
+    {
+        "Name": "Charlies Point",
+        "Key": "charlies_point",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "vietnam"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/charlies_point.jpeg"
+    },
+    {
+        "Name": "Deagle5",
+        "Key": "deagle5",
+        "Size": 0,
+        "Layouts": [
+            {
+                "GameMode": "gpm_gungame",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/deagle5.jpeg"
+    },
+    {
+        "Name": "Dovre",
+        "Key": "dovre",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_gungame",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/dovre.jpeg"
+    },
+    {
+        "Name": "Dovre Winter",
+        "Key": "dovre_winter",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/dovre_winter.jpeg"
+    },
+    {
+        "Name": "Dragon Fly",
+        "Key": "dragon_fly",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/dragon_fly.jpeg"
+    },
+    {
+        "Name": "Fallujah West",
+        "Key": "fallujah_west",
+        "Size": 1,
+        "Layouts": [
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/fallujah_west.jpeg"
+    },
+    {
+        "Name": "Fields of Kassel",
+        "Key": "fields_of_kassel",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 64,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "ww2"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/fields_of_kassel.jpeg"
+    },
+    {
+        "Name": "Fools Road",
+        "Key": "fools_road",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/fools_road.jpeg"
+    },
+    {
+        "Name": "Gaza",
+        "Key": "gaza_2",
+        "Size": 1,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/gaza_2.jpeg"
+    },
+    {
+        "Name": "Goose Green",
+        "Key": "goose_green",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/goose_green.jpeg"
+    },
+    {
+        "Name": "Grostok",
+        "Key": "grostok",
+        "Size": 1,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/grostok.jpeg"
+    },
+    {
+        "Name": "Hades Peak",
+        "Key": "hades_peak",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/hades_peak.jpeg"
+    },
+    {
+        "Name": "Hill 488",
+        "Key": "hill_488",
+        "Size": 1,
+        "Layouts": [
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "vietnam"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/hill_488.jpeg"
+    },
+    {
+        "Name": "Iron Ridge",
+        "Key": "iron_ridge",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/iron_ridge.jpeg"
+    },
+    {
+        "Name": "Kafr Halab",
+        "Key": "kafar_halab",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/kafar_halab.jpeg"
+    },
+    {
+        "Name": "Karbala",
+        "Key": "karbala",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/karbala.jpeg"
+    },
+    {
+        "Name": "Kashan Desert",
+        "Key": "kashan_desert",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 32,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/kashan_desert.jpeg"
+    },
+    {
+        "Name": "Khamisiyah",
+        "Key": "khamisiyah",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/khamisiyah.jpeg"
+    },
+    {
+        "Name": "Kokan",
+        "Key": "kokan",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/kokan.jpeg"
+    },
+    {
+        "Name": "Korbach Offensive - BETA",
+        "Key": "korbach_offensive",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/korbach_offensive.jpeg"
+    },
+    {
+        "Name": "Korengal Valley",
+        "Key": "korengal",
+        "Size": 1,
+        "Layouts": [
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/korengal.jpeg"
+    },
+    {
+        "Name": "Kozelsk",
+        "Key": "kozelsk",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/kozelsk.jpeg"
+    },
+    {
+        "Name": "Krivaja Valley",
+        "Key": "krivaja_valley",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/krivaja_valley.jpeg"
+    },
+    {
+        "Name": "Kunar Province - BETA",
+        "Key": "kunar_province",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/kunar_province.jpeg"
+    },
+    {
+        "Name": "Lashkar Valley",
+        "Key": "lashkar_valley",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/lashkar_valley.jpeg"
+    },
+    {
+        "Name": "Masirah",
+        "Key": "masirah",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/masirah.jpeg"
+    },
+    {
+        "Name": "Merville",
+        "Key": "merville",
+        "Size": 1,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "ww2"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/merville.jpeg"
+    },
+    {
+        "Name": "Musa Qala - BETA",
+        "Key": "musa_qala",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/musa_qala.jpeg"
+    },
+    {
+        "Name": "Muttrah City",
+        "Key": "muttrah_city_2",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/muttrah_city_2.jpeg"
+    },
+    {
+        "Name": "Nuijamaa",
+        "Key": "nuijamaa",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/nuijamaa.jpeg"
+    },
+    {
+        "Name": "Omaha Beach",
+        "Key": "omaha_beach",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "ww2"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/omaha_beach.jpeg"
+    },
+    {
+        "Name": "Operation Barracuda",
+        "Key": "op_barracuda",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/op_barracuda.jpeg"
+    },
+    {
+        "Name": "Operation Bobcat ",
+        "Key": "operation_bobcat",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/operation_bobcat.jpeg"
+    },
+    {
+        "Name": "Operation Brunswick",
+        "Key": "operation_brunswick",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "ww2"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/operation_brunswick.jpeg"
+    },
+    {
+        "Name": "Operation Falcon",
+        "Key": "operation_falcon",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/operation_falcon.jpeg"
+    },
+    {
+        "Name": "Operation Marlin",
+        "Key": "operation_marlin",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/operation_marlin.jpeg"
+    },
+    {
+        "Name": "Operation Soul Rebel",
+        "Key": "operation_soul_rebel",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/operation_soul_rebel.jpeg"
+    },
+    {
+        "Name": "Operation Thunder - BETA",
+        "Key": "operation_thunder",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/operation_thunder.jpeg"
+    },
+    {
+        "Name": "Outpost",
+        "Key": "outpost",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/outpost.jpeg"
+    },
+    {
+        "Name": "Pavlovsk Bay",
+        "Key": "pavlovsk_bay",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/pavlovsk_bay.jpeg"
+    },
+    {
+        "Name": "Ramiel",
+        "Key": "ramiel",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 32,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/ramiel.jpeg"
+    },
+    {
+        "Name": "Ras el Masri",
+        "Key": "ras_el_masri_2",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/ras_el_masri_2.jpeg"
+    },
+    {
+        "Name": "Reichswald",
+        "Key": "reichswald",
+        "Size": 1,
+        "Layouts": [
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "ww2"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/reichswald.jpeg"
+    },
+    {
+        "Name": "Road to Damascus - BETA",
+        "Key": "road_to_damascus",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/road_to_damascus.jpeg"
+    },
+    {
+        "Name": "Route E-106",
+        "Key": "route",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/route.jpeg"
+    },
+    {
+        "Name": "Rzhev",
+        "Key": "rzhev",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "ww2"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "ww2"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/rzhev.jpeg"
+    },
+    {
+        "Name": "Saaremaa",
+        "Key": "saaremaa",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/saaremaa.jpeg"
+    },
+    {
+        "Name": "Sahel",
+        "Key": "sahel",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/sahel.jpeg"
+    },
+    {
+        "Name": "Sbeneh Outskirts",
+        "Key": "sbeneh_outskirts",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/sbeneh_outskirts.jpeg"
+    },
+    {
+        "Name": "Shahadah",
+        "Key": "shahadah",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/shahadah.jpeg"
+    },
+    {
+        "Name": "Shijia Valley",
+        "Key": "shijiavalley",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/shijiavalley.jpeg"
+    },
+    {
+        "Name": "Shipment",
+        "Key": "shipment",
+        "Size": 0,
+        "Layouts": [
+            {
+                "GameMode": "gpm_gungame",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/shipment.jpeg"
+    },
+    {
+        "Name": "Silent Eagle",
+        "Key": "silent_eagle",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/silent_eagle.jpeg"
+    },
+    {
+        "Name": "Stalingrad",
+        "Key": "stalingrad",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/stalingrad.jpeg"
+    },
+    {
+        "Name": "Stalingrad Summer",
+        "Key": "stalingrad_summer",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_gungame",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/stalingrad_summer.jpeg"
+    },
+    {
+        "Name": "Tad Sae Offensive",
+        "Key": "tad_sae",
+        "Size": 1,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/tad_sae.jpeg"
+    },
+    {
+        "Name": "The Falklands",
+        "Key": "the_falklands",
+        "Size": 8,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/the_falklands.jpeg"
+    },
+    {
+        "Name": "Ulyanovsk",
+        "Key": "ulyanovsk",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/ulyanovsk.jpeg"
+    },
+    {
+        "Name": "Vadso City",
+        "Key": "vadso_city",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/vadso_city.jpeg"
+    },
+    {
+        "Name": "Vung Ro",
+        "Key": "vung_ro",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "vietnam"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "vietnam"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/vung_ro.jpeg"
+    },
+    {
+        "Name": "Wanda Shan",
+        "Key": "wanda_shan",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_gungame",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/wanda_shan.jpeg"
+    },
+    {
+        "Name": "Xiangshan",
+        "Key": "xiangshan",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/xiangshan.jpeg"
+    },
+    {
+        "Name": "Yamalia",
+        "Key": "yamalia",
+        "Size": 4,
+        "Layouts": [
+            {
+                "GameMode": "gpm_vehicles",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 128,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cnc",
+                "Layer": 128,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/yamalia.jpeg"
+    },
+    {
+        "Name": "Zakho - BETA",
+        "Key": "zakho",
+        "Size": 2,
+        "Layouts": [
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_cq",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_insurgency",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_skirmish",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 16,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 32,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 64,
+                "Era": "modern"
+            },
+            {
+                "GameMode": "gpm_coop",
+                "Layer": 128,
+                "Era": "modern"
+            }
+        ],
+        "Thumbnail": "./img/map_thumb/zakho.jpeg"
+    }
+]
