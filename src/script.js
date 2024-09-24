@@ -148,65 +148,55 @@ function showDetailedMapView(map) {
   let activeGameModeSelection = '';
   let activeLayerSelection = '';
 
-  const disabledGameModes = new Set(map.Layouts.map(layout => layout.GameMode));
-  const disabledLayers = new Set(map.Layouts.map(layout => layout.Layer));
-  
-  // Filter layouts based on the select gamemode
-  const filteredLayouts = map.Layouts.filter(layout => 
-    activeGameModeSelection === '' || layout.GameMode === activeGameModeSelection
-  );
-  
-  const enabledLayers = new Set(filteredLayouts.map(layout => layout.Layer));
-  
   const overlay = document.createElement('div');
   overlay.id = 'overlay';
-  overlay.classList.add('fixed', 'inset-0', 'bg-black', 'bg-opacity-70', 'flex', 'items-center', 'justify-center', 'z-50');
+  overlay.classList.add('fixed', 'inset-0', 'bg-black', 'backdrop-blur-[2px]', 'bg-opacity-70', 'flex', 'items-center', 'justify-center', 'z-50');
   
   const detailedMapView = document.createElement('div');
   detailedMapView.id = 'detailed-map-view';
   detailedMapView.innerHTML = `
-    <div class="w-[755px] h-[870px] relative flex mx-auto mt-4 mb-4 z-50">
-      <div class="container flex bg-prWhite rounded-3xl">
-        <div class="container flex flex-col mt-4 mx-4">
-          <div class="w-[720px] h-[720px] rounded-2xl bg-fuchsia-500 relative overflow-hidden">
-            <img src="./img/map_full/${map.Key}.png" alt="" class="w-full h-full object-cover">
-          </div>
-          
-          <div class="container relative flex mt-4">
+      <div class="w-[755px] h-[870px] relative flex mx-auto mt-4 mb-4 z-50">
+        <div class="container flex bg-prWhite rounded-3xl">
+          <div class="container flex flex-col mt-4 mx-4">
+            <div class="w-[720px] h-[720px] rounded-2xl bg-fuchsia-500 relative overflow-hidden">
+              <img src="./img/map_full/${map.Key}.png" alt="" class="w-full h-full object-cover">
+            </div>
+
+            <div class="container relative flex mt-4">
             <!-- Layer -->
-            <div class="container flex flex-col">
-              <div class="flex flex-col items-start">
-                <h3 class="mb-[2px] font-roboto-mono font-semibold text-xs text-prDarkGray">Map</h3>
+              <div class="container flex flex-col">
                 <div class="flex flex-col items-start">
-                  <h1 class="font-staatliches leading-[.9] text-2xl text-black">${map.Name}</h1>
-                  <h3 class="my-[2px] font-roboto-mono font-semibold text-xs text-prDarkGray">Size</h3>
-                  <h2 class="font-staatliches leading-[.9] text-xl text-black">${map.Size} Kilometer</h2>
+                  <h3 class="mb-[2px] font-roboto-mono font-semibold text-xs text-prDarkGray">Map</h3>
+                  <div class="flex flex-col items-start">
+                    <h1 class="font-staatliches leading-[.9] text-2xl text-black">${map.Name}</h1>
+                    <h3 class="my-[2px] font-roboto-mono font-semibold text-xs text-prDarkGray">Size</h3>
+                    <h2 class="font-staatliches leading-[.9] text-xl text-black">${map.Size} Kilometer</h2>
+                  </div>
                 </div>
               </div>
-            </div>
-            
+
             <!-- Vertical Line -->
             <div class="flex items-center">
               <div class="w-0.5 h-16 bg-prDarkGray opacity-20"></div>
             </div>
-            
-            <!-- Game Mode -->
+
+              <!-- Game Mode -->
             <div class="container flex flex-col items-center">
               <div class="flex flex-col mx-4 items-start">
                 <h3 class="mb-[2px] font-roboto-mono font-semibold text-xs text-prDarkGray">Game Mode</h3>
                 <div class="flex flex-row">
                   <div class="flex flex-col items-start">
                     ${['advance and secure', 'insurgency', 'skirmish', 'command and control'].map(gameModeText => {
-                      const gameMode = gameModeMapping[gameModeText.toLowerCase()];
-                      const isDisabled = disabledGameModes.has(gameMode);
-                      return `<button class="game-mode-button-detailed ${isDisabled ? 'whitespace-nowrap font-staatliches leading-[1.2] text-lg text-black' : 'text-gray-300 line-through whitespace-nowrap cursor-not-allowed font-staatliches leading-[1.2] text-lg'}">${gameModeText}</button>`;
+                        const gameMode = gameModeMapping[gameModeText.toLowerCase()];
+                        const isDisabled = !map.Layouts.some(layout => layout.GameMode === gameMode);
+                        return `<button class="game-mode-button-detailed ${isDisabled ? 'disabled text-gray-300 cursor-not-allowed line-through' : 'text-black'} whitespace-nowrap font-staatliches leading-[1.2] text-lg">${gameModeText}</button>`;
                     }).join('')}
                   </div>
                   <div class="ml-2 flex flex-col items-start">
                     ${['vehicle warfare', 'gun game', 'cooperative'].map(gameModeText => {
-                      const gameMode = gameModeMapping[gameModeText.toLowerCase()];
-                      const isDisabled = disabledGameModes.has(gameMode);
-                      return `<button class="game-mode-button-detailed ${isDisabled ? 'whitespace-nowrap font-staatliches leading-[1.2] text-lg text-black' : 'text-gray-300 line-through whitespace-nowrap cursor-not-allowed font-staatliches leading-[1.2] text-lg'}">${gameModeText}</button>`;
+                        const gameMode = gameModeMapping[gameModeText.toLowerCase()];
+                        const isDisabled = !map.Layouts.some(layout => layout.GameMode === gameMode);
+                        return `<button class="game-mode-button-detailed ${isDisabled ? 'disabled text-gray-300 cursor-not-allowed line-through' : 'text-black'} whitespace-nowrap font-staatliches leading-[1.2] text-lg">${gameModeText}</button>`;
                     }).join('')}
                   </div>
                 </div>
@@ -217,21 +207,21 @@ function showDetailedMapView(map) {
             <div class="flex items-center">
               <div class="w-0.5 h-16 bg-prDarkGray opacity-20"></div>
             </div>
-            
+
             <!-- Layer -->
             <div class="container flex flex-col items-center">
               <div class="flex flex-col items-start">
                 <h3 class="mb-[2px] font-roboto-mono font-semibold text-xs text-prDarkGray">Layer</h3>
                 <div class="flex flex-col items-start">
                   ${Object.keys(layerMapping).map(layerText => {
-                    const layer = layerMapping[layerText];
-                    const isDisabled = disabledLayers.has(layer);
-                    return `<button class="layer-button-detailed ${isDisabled ? 'font-staatliches leading-[1.2] text-lg text-black' : 'text-gray-300 line-through cursor-not-allowed font-staatliches leading-[1.2] text-lg'}">${layerText}</button>`;
+                      const layer = layerMapping[layerText];
+                      const isDisabled = !map.Layouts.some(layout => layout.Layer === layer);
+                      return `<button class="layer-button-detailed ${isDisabled ? 'disabled text-gray-300 cursor-not-allowed line-through' : 'text-black'} font-staatliches leading-[1.2] text-lg">${layerText}</button>`;
                   }).join('')}
                 </div>
               </div>
             </div>
-            
+
             <!-- Vertical Line -->
             <div class="flex items-center">
               <div class="w-0.5 h-16 bg-prDarkGray opacity-20"></div>
@@ -241,9 +231,8 @@ function showDetailedMapView(map) {
             <div class="container flex flex-col items-center">
               <div class="flex flex-col items-start">
                 <h3 class="mb-[2px] font-roboto-mono font-semibold text-xs text-prDarkGray">Route</h3>
-                <div class="flex flex-col items-start">
-                  <!-- <button class="whitespace-nowrap font-staatliches leading-[1.2] text-lg text-black">Route 1</button> -->
-                  <!-- <button class="whitespace-nowrap font-staatliches leading-[1.2] text-lg text-black">Route 2</button> -->
+                <div class="routes flex flex-col items-start">
+                  <!-- autofill -->
                 </div>
               </div>
             </div>
@@ -268,8 +257,10 @@ function showDetailedMapView(map) {
     </div>
   `;
 
+
   overlay.appendChild(detailedMapView);
   document.body.appendChild(overlay);
+
 
   const closeButton = document.createElement('button');
   closeButton.innerHTML = `
@@ -290,6 +281,7 @@ function showDetailedMapView(map) {
   });
   
   document.body.appendChild(closeButton);
+  
   
   const closeIcon = document.getElementById('close-icon');
   
@@ -330,53 +322,122 @@ function showDetailedMapView(map) {
     }
   });
 
-  
-  // Game Mode button click event handler
   const gameModeButtonsDetailed = document.querySelectorAll('.game-mode-button-detailed');
   gameModeButtonsDetailed.forEach(button => {
-    button.addEventListener('click', () => {
-      gameModeButtonsDetailed.forEach(btn => {
-        btn.classList.remove('bg-black', 'text-white');
-        btn.classList.add('bg-transparent', 'text-black');
+      button.addEventListener('click', () => {
+          // Check if button is disabled
+          if (button.classList.contains('disabled')) {
+              return;
+          }
+
+          gameModeButtonsDetailed.forEach(btn => {
+              btn.classList.remove('bg-black', 'text-white');
+              btn.classList.add('bg-transparent', 'text-black');
+          });
+
+          button.classList.add('bg-black', 'text-white');
+          button.classList.remove('bg-transparent', 'text-black');
+
+          if (activeGameModeSelection !== gameModeMapping[button.textContent.trim().toLowerCase()]) {
+            activeGameModeSelection = gameModeMapping[button.textContent.trim().toLowerCase()];
+            activeLayerSelection = '';
+            layerButtonsDetailed.forEach(btn => {
+              btn.classList.remove('bg-black', 'text-white');
+              btn.classList.add('bg-transparent', 'text-black');
+            });
+            updateLayerButtonStates();
+          }
+          updateMapRouteFile();
+        });
       });
-      button.classList.add('bg-black', 'text-white');
-      button.classList.remove('bg-transparent', 'text-black');
-      
-      // Update the activeGameModeSelection variable
-      activeGameModeSelection = gameModeMapping[button.textContent.trim().toLowerCase()];
-      console.log(activeGameModeSelection);
-      
-      // Update button states based on the selected game mode
-      updateLayerButtonStates(map);
-    });
-  });
 
   const layerButtonsDetailed = document.querySelectorAll('.layer-button-detailed');
   layerButtonsDetailed.forEach(button => {
-    button.addEventListener('click', () => {
-      layerButtonsDetailed.forEach(btn => {
-        btn.classList.remove('bg-black', 'text-white');
-        btn.classList.add('bg-transparent', 'text-black');
-      });
-      button.classList.add('bg-black', 'text-white');
-      button.classList.remove('bg-transparent', 'text-black');
+      button.addEventListener('click', () => {
+          if (button.classList.contains('disabled')) {
+              return;
+          }
 
-      activeLayerSelection = layerMapping[button.textContent.trim().toLowerCase()];
-      console.log(activeLayerSelection);
-    });
+          layerButtonsDetailed.forEach(btn => {
+              btn.classList.remove('bg-black', 'text-white');
+              btn.classList.add('bg-transparent', 'text-black');
+          });
+
+          button.classList.add('bg-black', 'text-white');
+          button.classList.remove('bg-transparent', 'text-black');
+
+          activeLayerSelection = layerMapping[button.textContent.trim().toLowerCase()];
+          updateMapRouteFile();
+      });
   });
 
-  // Function to update the state of layer buttons
   function updateLayerButtonStates() {
-    const layerButtonsDetailed = document.querySelectorAll('.layer-button-detailed');
-    layerButtonsDetailed.forEach(button => {
-      const layerText = button.textContent.trim().toLowerCase();
-      const layer = layerMapping[layerText];
-      const isDisabled = !enabledLayers.has(layer);
-      button.classList.toggle('text-gray-300', isDisabled);
-      button.classList.toggle('line-through', isDisabled);
-      button.classList.toggle('cursor-not-allowed', isDisabled);
-      button.classList.toggle('text-black', !isDisabled);
-    });
+      const enabledLayers = new Set(map.Layouts.filter(layout => layout.GameMode === activeGameModeSelection).map(layout => layout.Layer));
+      layerButtonsDetailed.forEach(button => {
+          const layerText = button.textContent.trim().toLowerCase();
+          const layer = layerMapping[layerText];
+          const isDisabled = !enabledLayers.has(layer);
+          button.classList.toggle('text-gray-300', isDisabled);
+          button.classList.toggle('cursor-not-allowed', isDisabled);
+          button.classList.toggle('line-through', isDisabled);
+          button.classList.toggle('text-black', !isDisabled);
+          if (isDisabled) {
+              button.classList.remove('bg-black', 'text-white');
+              button.classList.add('bg-transparent', 'text-black');
+          }
+      });
+  }
+
+
+  async function updateMapRouteFile() {
+    if (activeGameModeSelection && activeLayerSelection) {
+      const mapRouteFile = `./map_json_data/${map.Key}/${activeGameModeSelection}_${activeLayerSelection}.json`;
+      console.log(mapRouteFile);
+  
+      try {
+        const response = await fetch(mapRouteFile);
+        if (!response.ok) {
+          throw new Error('file not found');
+        }
+  
+        const data = await response.json();
+        const mapRoutes = data.ControlPoints;
+        const totalRoutes = calculateTotalRoutes(mapRoutes);
+        updateRoutesInView(totalRoutes);
+  
+        console.log('Map Routes:', mapRoutes);
+        console.log('Total Routes:', totalRoutes); 
+      } catch (error) {
+        console.error('Error getting data data:', error);
+      }
+    }
+  }
+
+}
+
+
+function updateRoutesInView(totalRoutes) {
+  const routesContainer = document.querySelector('.routes');
+  routesContainer.innerHTML = '';
+
+  for (let i = 1; i <= totalRoutes; i++) {
+    const routeButton = `<button class="whitespace-nowrap font-staatliches leading-[1.2] text-lg text-black">Route ${i}</button>`;
+    routesContainer.innerHTML += routeButton; 
   }
 }
+
+function calculateTotalRoutes(controlPoints) {
+  const routeSet = new Set(); 
+
+  controlPoints.forEach(point => {
+    const supplyGroupId = point.SupplyGroupId;
+    if (supplyGroupId !== -1 || supplyGroupId !== 1) {
+      const supplyGroupIdStr = supplyGroupId.toString(); 
+      const routeNumber = supplyGroupIdStr[supplyGroupIdStr.length - 1]; 
+      routeSet.add(routeNumber); 
+    }
+  });
+
+  return routeSet.size; 
+}
+
