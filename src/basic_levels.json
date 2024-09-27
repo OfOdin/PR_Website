@@ -3324,22 +3324,22 @@
             {
                 "GameMode": "gpm_cq",
                 "Layer": 16,
-                "Era": "modern"
+                "Era": "ww2"
             },
             {
                 "GameMode": "gpm_cq",
                 "Layer": 32,
-                "Era": "modern"
+                "Era": "ww2"
             },
             {
                 "GameMode": "gpm_cq",
                 "Layer": 64,
-                "Era": "modern"
+                "Era": "ww2"
             },
             {
                 "GameMode": "gpm_skirmish",
                 "Layer": 64,
-                "Era": "modern"
+                "Era": "ww2"
             }
         ],
         "Thumbnail": "./img/map_thumb/stalingrad.jpeg"
@@ -3352,22 +3352,22 @@
             {
                 "GameMode": "gpm_gungame",
                 "Layer": 64,
-                "Era": "modern"
+                "Era": "ww2"
             },
             {
                 "GameMode": "gpm_cq",
                 "Layer": 16,
-                "Era": "modern"
+                "Era": "ww2"
             },
             {
                 "GameMode": "gpm_cq",
                 "Layer": 32,
-                "Era": "modern"
+                "Era": "ww2"
             },
             {
                 "GameMode": "gpm_cq",
                 "Layer": 64,
-                "Era": "modern"
+                "Era": "ww2"
             }
         ],
         "Thumbnail": "./img/map_thumb/stalingrad_summer.jpeg"

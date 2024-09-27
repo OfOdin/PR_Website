@@ -177,7 +177,7 @@ function showDetailedMapView(map) {
 
             <!-- Vertical Line -->
             <div class="flex items-center">
-              <div class="w-0.5 h-16 bg-prDarkGray opacity-20"></div>
+              <div class="w-0.5 h-16 ml-1 bg-prDarkGray opacity-20"></div>
             </div>
 
               <!-- Game Mode -->
@@ -377,6 +377,7 @@ function showDetailedMapView(map) {
           const layerText = button.textContent.trim().toLowerCase();
           const layer = layerMapping[layerText];
           const isDisabled = !enabledLayers.has(layer);
+          button.classList.toggle('disabled', isDisabled);
           button.classList.toggle('text-gray-300', isDisabled);
           button.classList.toggle('cursor-not-allowed', isDisabled);
           button.classList.toggle('line-through', isDisabled);
@@ -405,8 +406,7 @@ function showDetailedMapView(map) {
         const totalRoutes = calculateTotalRoutes(mapRoutes);
         updateRoutesInView(totalRoutes);
   
-        console.log('Map Routes:', mapRoutes);
-        console.log('Total Routes:', totalRoutes); 
+
       } catch (error) {
         console.error('Error getting data data:', error);
       }
@@ -427,17 +427,31 @@ function updateRoutesInView(totalRoutes) {
 }
 
 function calculateTotalRoutes(controlPoints) {
-  const routeSet = new Set(); 
+  const routeSet = new Set();
+  let hasThreeDigitRoutes = false; 
 
   controlPoints.forEach(point => {
     const supplyGroupId = point.SupplyGroupId;
-    if (supplyGroupId !== -1 || supplyGroupId !== 1) {
-      const supplyGroupIdStr = supplyGroupId.toString(); 
-      const routeNumber = supplyGroupIdStr[supplyGroupIdStr.length - 1]; 
-      routeSet.add(routeNumber); 
+    
+    if (supplyGroupId === 1 || supplyGroupId === -1) {
+      return;
     }
+
+    // 3 digit numbers denote multiple layers.
+    // layers with 1 route only have single digit numbers.
+    if (supplyGroupId >= 100) {
+      hasThreeDigitRoutes = true; 
+    }
+
+    const supplyGroupIdStr = supplyGroupId.toString();
+    const routeNumber = supplyGroupIdStr[supplyGroupIdStr.length - 1];
+    routeSet.add(routeNumber);
   });
 
-  return routeSet.size; 
+  if (!hasThreeDigitRoutes) {
+    return 1;
+  }
+
+  return routeSet.size;
 }
 
