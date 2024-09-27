@@ -34,8 +34,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/adak.jpeg"
+        ]
     },
     {
         "Name": "Al Basrah",
@@ -82,8 +81,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/albasrah_2.jpeg"
+        ]
     },
     {
         "Name": "Asad Khal",
@@ -130,8 +128,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/asad_khal.jpeg"
+        ]
     },
     {
         "Name": "Ascheberg",
@@ -173,8 +170,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/ascheberg.jpeg"
+        ]
     },
     {
         "Name": "Assault on Grozny",
@@ -231,8 +227,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/assault_on_grozny.jpeg"
+        ]
     },
     {
         "Name": "Assault on Mestia",
@@ -254,8 +249,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/assault_on_mestia.jpeg"
+        ]
     },
     {
         "Name": "Bamyan",
@@ -307,8 +301,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/bamyan.jpeg"
+        ]
     },
     {
         "Name": "Battle of Debrecen",
@@ -325,8 +318,7 @@
                 "Layer": 64,
                 "Era": "ww2"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/battle_of_debrecen.jpeg"
+        ]
     },
     {
         "Name": "Battle of Ia Drang",
@@ -378,8 +370,7 @@
                 "Layer": 16,
                 "Era": "vietnam"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/battle_of_ia_drang.jpeg"
+        ]
     },
     {
         "Name": "Battle of Kerch",
@@ -411,8 +402,7 @@
                 "Layer": 32,
                 "Era": "ww2"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/battle_of_kerch.jpeg"
+        ]
     },
     {
         "Name": "Beirut",
@@ -469,8 +459,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/beirut.jpeg"
+        ]
     },
     {
         "Name": "Belyaevo",
@@ -492,8 +481,7 @@
                 "Layer": 16,
                 "Era": "ww2"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/belyaevo.jpeg"
+        ]
     },
     {
         "Name": "Black Gold",
@@ -585,8 +573,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/black_gold.jpeg"
+        ]
     },
     {
         "Name": "Brecourt Assault",
@@ -613,8 +600,7 @@
                 "Layer": 64,
                 "Era": "ww2"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/brecourt_assault.jpeg"
+        ]
     },
     {
         "Name": "Burning Sands",
@@ -666,8 +652,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/burning_sands.jpeg"
+        ]
     },
     {
         "Name": "Carentan",
@@ -719,8 +704,7 @@
                 "Layer": 64,
                 "Era": "ww2"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/carentan.jpeg"
+        ]
     },
     {
         "Name": "Charlies Point",
@@ -742,8 +726,7 @@
                 "Layer": 64,
                 "Era": "vietnam"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/charlies_point.jpeg"
+        ]
     },
     {
         "Name": "Deagle5",
@@ -755,8 +738,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/deagle5.jpeg"
+        ]
     },
     {
         "Name": "Dovre",
@@ -793,8 +775,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/dovre.jpeg"
+        ]
     },
     {
         "Name": "Dovre Winter",
@@ -831,8 +812,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/dovre_winter.jpeg"
+        ]
     },
     {
         "Name": "Dragon Fly",
@@ -899,8 +879,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/dragon_fly.jpeg"
+        ]
     },
     {
         "Name": "Fallujah West",
@@ -947,8 +926,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/fallujah_west.jpeg"
+        ]
     },
     {
         "Name": "Fields of Kassel",
@@ -1000,8 +978,7 @@
                 "Layer": 16,
                 "Era": "ww2"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/fields_of_kassel.jpeg"
+        ]
     },
     {
         "Name": "Fools Road",
@@ -1078,8 +1055,7 @@
                 "Layer": 32,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/fools_road.jpeg"
+        ]
     },
     {
         "Name": "Gaza",
@@ -1131,8 +1107,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/gaza_2.jpeg"
+        ]
     },
     {
         "Name": "Goose Green",
@@ -1174,8 +1149,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/goose_green.jpeg"
+        ]
     },
     {
         "Name": "Grostok",
@@ -1212,8 +1186,7 @@
                 "Layer": 32,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/grostok.jpeg"
+        ]
     },
     {
         "Name": "Hades Peak",
@@ -1280,8 +1253,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/hades_peak.jpeg"
+        ]
     },
     {
         "Name": "Hill 488",
@@ -1308,8 +1280,7 @@
                 "Layer": 16,
                 "Era": "vietnam"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/hill_488.jpeg"
+        ]
     },
     {
         "Name": "Iron Ridge",
@@ -1371,8 +1342,7 @@
                 "Layer": 128,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/iron_ridge.jpeg"
+        ]
     },
     {
         "Name": "Kafr Halab",
@@ -1434,8 +1404,7 @@
                 "Layer": 128,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/kafar_halab.jpeg"
+        ]
     },
     {
         "Name": "Karbala",
@@ -1477,8 +1446,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/karbala.jpeg"
+        ]
     },
     {
         "Name": "Kashan Desert",
@@ -1565,8 +1533,7 @@
                 "Layer": 32,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/kashan_desert.jpeg"
+        ]
     },
     {
         "Name": "Khamisiyah",
@@ -1643,8 +1610,7 @@
                 "Layer": 128,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/khamisiyah.jpeg"
+        ]
     },
     {
         "Name": "Kokan",
@@ -1701,8 +1667,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/kokan.jpeg"
+        ]
     },
     {
         "Name": "Korbach Offensive - BETA",
@@ -1754,8 +1719,7 @@
                 "Layer": 128,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/korbach_offensive.jpeg"
+        ]
     },
     {
         "Name": "Korengal Valley",
@@ -1782,8 +1746,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/korengal.jpeg"
+        ]
     },
     {
         "Name": "Kozelsk",
@@ -1830,8 +1793,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/kozelsk.jpeg"
+        ]
     },
     {
         "Name": "Krivaja Valley",
@@ -1858,8 +1820,7 @@
                 "Layer": 32,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/krivaja_valley.jpeg"
+        ]
     },
     {
         "Name": "Kunar Province - BETA",
@@ -1901,8 +1862,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/kunar_province.jpeg"
+        ]
     },
     {
         "Name": "Lashkar Valley",
@@ -1949,8 +1909,7 @@
                 "Layer": 32,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/lashkar_valley.jpeg"
+        ]
     },
     {
         "Name": "Masirah",
@@ -1992,8 +1951,7 @@
                 "Layer": 128,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/masirah.jpeg"
+        ]
     },
     {
         "Name": "Merville",
@@ -2020,8 +1978,7 @@
                 "Layer": 64,
                 "Era": "ww2"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/merville.jpeg"
+        ]
     },
     {
         "Name": "Musa Qala - BETA",
@@ -2068,8 +2025,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/musa_qala.jpeg"
+        ]
     },
     {
         "Name": "Muttrah City",
@@ -2106,8 +2062,7 @@
                 "Layer": 32,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/muttrah_city_2.jpeg"
+        ]
     },
     {
         "Name": "Nuijamaa",
@@ -2164,8 +2119,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/nuijamaa.jpeg"
+        ]
     },
     {
         "Name": "Omaha Beach",
@@ -2207,8 +2161,7 @@
                 "Layer": 64,
                 "Era": "ww2"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/omaha_beach.jpeg"
+        ]
     },
     {
         "Name": "Operation Barracuda",
@@ -2260,8 +2213,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/op_barracuda.jpeg"
+        ]
     },
     {
         "Name": "Operation Bobcat ",
@@ -2323,8 +2275,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/operation_bobcat.jpeg"
+        ]
     },
     {
         "Name": "Operation Brunswick",
@@ -2356,8 +2307,7 @@
                 "Layer": 64,
                 "Era": "ww2"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/operation_brunswick.jpeg"
+        ]
     },
     {
         "Name": "Operation Falcon",
@@ -2409,8 +2359,7 @@
                 "Layer": 128,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/operation_falcon.jpeg"
+        ]
     },
     {
         "Name": "Operation Marlin",
@@ -2467,8 +2416,7 @@
                 "Layer": 128,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/operation_marlin.jpeg"
+        ]
     },
     {
         "Name": "Operation Soul Rebel",
@@ -2500,8 +2448,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/operation_soul_rebel.jpeg"
+        ]
     },
     {
         "Name": "Operation Thunder - BETA",
@@ -2543,8 +2490,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/operation_thunder.jpeg"
+        ]
     },
     {
         "Name": "Outpost",
@@ -2586,8 +2532,7 @@
                 "Layer": 32,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/outpost.jpeg"
+        ]
     },
     {
         "Name": "Pavlovsk Bay",
@@ -2629,8 +2574,7 @@
                 "Layer": 128,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/pavlovsk_bay.jpeg"
+        ]
     },
     {
         "Name": "Ramiel",
@@ -2687,8 +2631,7 @@
                 "Layer": 32,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/ramiel.jpeg"
+        ]
     },
     {
         "Name": "Ras el Masri",
@@ -2725,8 +2668,7 @@
                 "Layer": 128,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/ras_el_masri_2.jpeg"
+        ]
     },
     {
         "Name": "Reichswald",
@@ -2763,8 +2705,7 @@
                 "Layer": 64,
                 "Era": "ww2"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/reichswald.jpeg"
+        ]
     },
     {
         "Name": "Road to Damascus - BETA",
@@ -2816,8 +2757,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/road_to_damascus.jpeg"
+        ]
     },
     {
         "Name": "Route E-106",
@@ -2874,8 +2814,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/route.jpeg"
+        ]
     },
     {
         "Name": "Rzhev",
@@ -2897,8 +2836,7 @@
                 "Layer": 64,
                 "Era": "ww2"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/rzhev.jpeg"
+        ]
     },
     {
         "Name": "Saaremaa",
@@ -2960,8 +2898,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/saaremaa.jpeg"
+        ]
     },
     {
         "Name": "Sahel",
@@ -3013,8 +2950,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/sahel.jpeg"
+        ]
     },
     {
         "Name": "Sbeneh Outskirts",
@@ -3101,8 +3037,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/sbeneh_outskirts.jpeg"
+        ]
     },
     {
         "Name": "Shahadah",
@@ -3144,8 +3079,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/shahadah.jpeg"
+        ]
     },
     {
         "Name": "Shijia Valley",
@@ -3227,8 +3161,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/shijiavalley.jpeg"
+        ]
     },
     {
         "Name": "Shipment",
@@ -3240,8 +3173,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/shipment.jpeg"
+        ]
     },
     {
         "Name": "Silent Eagle",
@@ -3313,8 +3245,7 @@
                 "Layer": 128,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/silent_eagle.jpeg"
+        ]
     },
     {
         "Name": "Stalingrad",
@@ -3341,8 +3272,7 @@
                 "Layer": 64,
                 "Era": "ww2"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/stalingrad.jpeg"
+        ]
     },
     {
         "Name": "Stalingrad Summer",
@@ -3369,8 +3299,7 @@
                 "Layer": 64,
                 "Era": "ww2"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/stalingrad_summer.jpeg"
+        ]
     },
     {
         "Name": "Tad Sae Offensive",
@@ -3412,8 +3341,7 @@
                 "Layer": 32,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/tad_sae.jpeg"
+        ]
     },
     {
         "Name": "The Falklands",
@@ -3460,8 +3388,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/the_falklands.jpeg"
+        ]
     },
     {
         "Name": "Ulyanovsk",
@@ -3493,8 +3420,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/ulyanovsk.jpeg"
+        ]
     },
     {
         "Name": "Vadso City",
@@ -3556,8 +3482,7 @@
                 "Layer": 128,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/vadso_city.jpeg"
+        ]
     },
     {
         "Name": "Vung Ro",
@@ -3589,8 +3514,7 @@
                 "Layer": 128,
                 "Era": "vietnam"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/vung_ro.jpeg"
+        ]
     },
     {
         "Name": "Wanda Shan",
@@ -3657,8 +3581,7 @@
                 "Layer": 64,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/wanda_shan.jpeg"
+        ]
     },
     {
         "Name": "Xiangshan",
@@ -3730,8 +3653,7 @@
                 "Layer": 16,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/xiangshan.jpeg"
+        ]
     },
     {
         "Name": "Yamalia",
@@ -3813,8 +3735,7 @@
                 "Layer": 128,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/yamalia.jpeg"
+        ]
     },
     {
         "Name": "Zakho - BETA",
@@ -3866,7 +3787,6 @@
                 "Layer": 128,
                 "Era": "modern"
             }
-        ],
-        "Thumbnail": "./img/map_thumb/zakho.jpeg"
+        ]
     }
 ]

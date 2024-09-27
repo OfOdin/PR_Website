@@ -47,7 +47,7 @@ function renderCards(filteredMaps) {
     card.innerHTML = `
       <a href="#" class="h-[306px] flex flex-col rounded-3xl bg-prWhite">
         <div class="mt-4 mx-4 h-[232px] rounded-2xl bg-fuchsia-500 overflow-hidden relative">
-          <img src="${map.Thumbnail}" alt="Card Image" class="w-full h-full object-cover">
+          <img src="./img/map_thumb/${map.Key}.jpeg" alt="Card Image" class="w-full h-full object-cover">
         </div>
         <div class="flex mx-4 mt-2 justify-between items-center">
           <div class="container">
