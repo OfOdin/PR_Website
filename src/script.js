@@ -392,7 +392,7 @@ function showDetailedMapView(map) {
 
   async function updateMapRouteFile() {
     if (activeGameModeSelection && activeLayerSelection) {
-      const mapRouteFile = `./map_json_data/${map.Key}/${activeGameModeSelection}_${activeLayerSelection}.json`;
+      const mapRouteFile = `./map_json_data/${map.Name.replace(" ", "").toLowerCase()}/${activeGameModeSelection}_${activeLayerSelection}.json`;
       console.log(mapRouteFile);
   
       try {
